@@ -1,0 +1,107 @@
+html{
+    background-color: white;
+}
+
+header{
+    font-family: lucida handwriting;
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 0px;
+    background-color: aliceblue;
+    text-emphasis: underline;
+
+}
+nav{
+    font-family: candara;
+	left: 5px;
+	top: 0px;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+    
+}
+a:hover{
+    color: mediumseagreen;
+}
+list{
+    align-content: center;
+    text-align: center;
+    font-family: calibri;
+    font-size: 20px;
+}
+figure1{
+    position:static;
+margin-left: 100px;
+    float:left;
+    
+}
+figure2{
+
+    position: static;
+    margin-right: 100px;
+  margin-left: 140px;
+}
+
+button{
+    font-size: 20px;
+    
+}
+listOrder{
+     align-content: center;
+    text-align: center;
+    font-family: calibri;
+    font-size: 20px;
+    border-color: azure;
+    background-color: aquamarine;
+    color: cadetblue;
+}
+
+body{
+    text-align: center;
+    font-size: 19px;
+}
+
+h1{
+    font-family: cursive;
+    text-align: center;
+    font-size: 24px;
+}
+h2{
+    font-family: calibri;
+    font-size: 24px;
+}
+h3{
+    font-family: cursive;
+    text-align: center;
+    font-size: 20px;
+    
+}
+h4{
+    font-family: cursive;
+    text-align: center;
+    font-size: 20px;
+}
+h5{
+    font-family: calibri;
+    text-align: center;
+    font-size: 24px;
+}
+section{
+    font-family:calibri;
+    font-size: 20px;
+    text-align: center;
+}
+description{
+    font-family: calibri;
+    font-size: 18px;
+}
+sectionLegal{
+    font-family: Arial;
+    font-style: italic;
+    font-size: 12px;
+}
+submit{
+    padding 10px 10px 10px 10px;
+    color: aliceblue;
+    border: 10px 10px 10px 10px;
+}
